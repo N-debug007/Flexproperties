@@ -1,0 +1,9 @@
+body {
+  position: relative;
+  display: flex;
+}
+
+section {
+  height: 320px;
+  text-align: center;
+}
